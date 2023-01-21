@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+this is a feature from developer
+editing yto mke a conflic
+=======
+this is a feature from developer2
+this is for a conflict
+>>>>>>> branch2
